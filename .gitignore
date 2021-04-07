@@ -1,0 +1,5 @@
+*.log
+fold/
+/dir/
+neww/dir/
+db.accdb
